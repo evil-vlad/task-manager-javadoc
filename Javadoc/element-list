@@ -1,0 +1,5 @@
+com.visionspace.taskmanager
+com.visionspace.taskmanager.descriptor
+com.visionspace.taskmanager.impl.launcher
+com.visionspace.taskmanager.impl.manager
+com.visionspace.taskmanager.impl.store
